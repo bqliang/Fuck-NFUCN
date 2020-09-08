@@ -1,4 +1,5 @@
-# Fuck_Campus-Network（中大南方）:globe_with_meridians:
+# Fuck_Campus-Network :globe_with_meridians:
+# 中大南方校园网自动登录
 >一键进行校园网认证，解放你的双手:grimacing:
 <br>
 
