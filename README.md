@@ -1,18 +1,18 @@
-# Fuck_Campus-Network（中大南方）  
->一键进行校园网认证，解放你的双手  
+# Fuck_Campus-Network（中大南方）
+>一键进行校园网认证，解放你的双手:grimacing:  
   
   
-### CHANGELOG
+## CHANGELOG:new:  
 V1.1  
 打包成exe文件，使用前无需配置python环境  
   
   
-##### [下载地址](https://wwa.lanzous.com/iOErFgg95ne)  
-##### [备用地址](https://github.com/bqliang/Fuck_Campus-Network/releases/download/V1.1/Fuck_Campus-Network.-.V1.1.zip)
+## 下载  
+[地址1](https://wwa.lanzous.com/iOErFgg95ne)  
+[地址2](https://github.com/bqliang/Fuck_Campus-Network/releases/download/V1.1/Fuck_Campus-Network.-.V1.1.zip)  
   
   
-#### 使用方法
-
+## 使用方法
 1. 下载压缩包，解压
 2. 运行文件夹内的 ```点我配置信息.bat``` ，输入校园网账号密码，这时会在桌面生成一个快捷方式。
 3. 同时按住 Win + R 键，输入 regedit ，点按确定，逐次找到 
@@ -23,10 +23,9 @@ V1.1
    ![Image text](https://img-blog.csdn.net/20160511100609551)
    
 4. 连接到校园网时，点击桌面的快捷方式 ```Wfif Con``` 自动进行认证
-
-
-#### 实现连接到 WiFi 自动执行认证操作
-
+  
+  
+## 实现连接到 WiFi 自动执行认证操作
 1. 右键“我的电脑”，点击“管理”
 2. 在左栏选择“计划任务程序”
 3. 点击右栏“创建任务”
