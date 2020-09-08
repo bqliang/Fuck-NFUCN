@@ -5,7 +5,7 @@
 ## CHANGELOG:new:  
 V1.1  
 打包成exe文件，使用前无需配置python环境
-<br>
+<br><br>
 
 ## 下载  
 [地址1](https://wwa.lanzous.com/iOErFgg95ne)  
