@@ -1,8 +1,8 @@
-# Fuck_Campus-Network（中大南方） :globe_with_meridians:
+# Fuck_Campus-Network（中大南方）:globe_with_meridians:
 >一键进行校园网认证，解放你的双手:grimacing:
 <br>
 
-## CHANGELOG :new:  
+## :new: CHANGELOG  
 V1.2  
 解决自动化无效的bug  
   
@@ -10,12 +10,12 @@ V1.1
 打包成exe文件，使用前无需配置python环境
 <br><br>
 
-## 下载 :arrow_down:  
+## :arrow_down: 下载  
 [地址1（推荐）](https://wwa.lanzous.com/iyX2Gggimif)  
 [备用地址](https://github.com/bqliang/Fuck_Campus-Network/releases/download/V1.2/Fuck_Campus-Network-V1.2.zip)  
 <br>
 
-## 使用方法 :u7981:
+## :u7981: 使用方法  
 1. 下载压缩包，解压
 2. 运行文件夹内的 ```点我配置信息.bat``` ，输入校园网账号密码，这时会在桌面生成一个快捷方式。
 3. 同时按住 Win + R 键，输入 regedit ，点按确定，逐次找到  
@@ -28,7 +28,7 @@ V1.1
 4. 到目前为止，程序已可用，连接到校园网时，点击桌面的快捷方式 ```Wfif Con``` 即可自动进行认证。如果你想要全自动化，你可能需要再花费一点时间阅读以下内容。
 <br>
 
-## 实现连接到 WiFi 自动执行认证操作 :arrows_counterclockwise:
+## :arrows_counterclockwise: 实现连接到 WiFi 自动执行认证操作  
 1. 右键“我的电脑”，点击```管理```
 2. 在左栏选择```任务计划程序```；点击右栏```创建任务```
 3. 名称随便填
@@ -41,6 +41,6 @@ V1.1
 ![Image text](https://pic2.zhimg.com/80/v2-ab3248fc843aaa4a6a0e2f922794525a_720w.jpg?source=1940ef5c)  
 <br><br>
 
-## 联系方式 :love_letter:  
+## :love_letter: 联系方式  
 :four_leaf_clover: 微信：```iwaslbq```  
 :mailbox_with_mail: 电子邮箱：```bqliang@outlook.com```
