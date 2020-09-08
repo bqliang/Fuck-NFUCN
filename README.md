@@ -16,3 +16,13 @@
 1. 下载 python 安装
 
 2. 使用 ```pip install requests``` 命令安装 request 模块
+
+
+#### 使用方法
+
+1. 下载压缩包，解压
+2. 运行文件夹内的 ```点我配置信息.bat```
+3. 同时按住 Win + R 键，输入 regedit ，点按确定，逐次找到 ```计算机\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\Internet``` ，
+   如图所示，在数值数据中，输入0，默认值是1，确定。
+4. 连接到校园网时，点击桌面的快捷方式 ```Wfif Con```
+
