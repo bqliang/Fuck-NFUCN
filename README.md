@@ -13,6 +13,6 @@
 #### 环境配置
 >（出现问题请使用搜索引擎寻求解决办法）
 
-下载 python 安装
+1.下载 python 安装
 
-使用 ```pip install requests``` 命令安装 request 模块
+2.使用 ```pip install requests``` 命令安装 request 模块
