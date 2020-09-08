@@ -8,9 +8,9 @@ V1.1
   
   
 ~~#### 环境依赖~~  
-~~* Win 7+
-~* [python 3.6+](https://www.python.org/downloads/)
-* python request库~~
+~~* Win 7+  
+* python 3.6+  
+~~* python request库~~  
 
 
 ~~#### 环境配置
