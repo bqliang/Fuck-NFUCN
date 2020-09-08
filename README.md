@@ -4,7 +4,7 @@
 
 ## CHANGELOG:new:  
 V1.2  
-解决自动化无效问题  
+解决自动化无效的bug  
   
 V1.1  
 打包成exe文件，使用前无需配置python环境
