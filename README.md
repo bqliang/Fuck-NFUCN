@@ -35,7 +35,6 @@ V1.1
 7. 事件日志选择“应用程序与服务日志 -> Microsoft -> Windows -> WLAN -> AutoConfig -> Operational”
 8. 事件来源选择“WLAN-AutoConfig”
 9. 所有事件id里输入数字8001
+10. 切换到XML标签，勾选“手动编辑查询” -> 在</Select>前增加代码[EventData[Data[@Name='SSID']='NFU_Student']]
 
 ![Image text](https://pic2.zhimg.com/80/v2-ab3248fc843aaa4a6a0e2f922794525a_720w.jpg?source=1940ef5c)
-
-10. 切换到XML标签，勾选“手动编辑查询” -> 在</Select>前增加代码[EventData[Data[@Name='SSID']='NFU_Student']]
