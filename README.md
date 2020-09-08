@@ -7,6 +7,10 @@ V1.1
 打包成exe文件，使用前无需配置python环境  
   
   
+##### [下载地址](https://wwa.lanzous.com/iOErFgg95ne)  
+##### [备用地址](https://github.com/bqliang/Fuck_Campus-Network/releases/download/V1.1/Fuck_Campus-Network.-.V1.1.zip)
+  
+  
 #### 使用方法
 
 1. 下载压缩包，解压
