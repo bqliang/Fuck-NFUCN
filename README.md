@@ -29,5 +29,24 @@
    
    ![Image text](https://img-blog.csdn.net/20160511100609551)
    
-4. 连接到校园网时，点击桌面的快捷方式 ```Wfif Con```
+4. 连接到校园网时，点击桌面的快捷方式 ```Wfif Con``` 自动进行认证
 
+
+#### 实现连接到 WiFi 自动执行认证操作
+
+1. 右键“我的电脑”，点击“管理”
+2. 在左栏选择“计划任务程序”
+3. 点击右栏“创建任务”
+4. 名称随便填
+5. 切换到“触发器”，“新建”，开始任务选择“发生事件时”
+6. 选择“自定义”，“新建事件筛选器”
+7. 事件日志选择“Microsoft-Windows-WLAN-AutoConfig/Operational”
+8. 事件来源选择“WLAN-AutoConfig”
+9. 事件id输入数字8001
+
+![Image text](https://pic2.zhimg.com/80/v2-ab3248fc843aaa4a6a0e2f922794525a_720w.jpg?source=1940ef5c)
+
+10. 切换到XML标签，勾选“手动编辑查询” -> 在</Select>前增加代码[EventData[Data[@Name='SSID']='Your WiFi Network']]
+
+
+![Image text](https://pic4.zhimg.com/80/v2-ad63651603524bb34cf3c54d0122ce90_720w.jpg?source=1940ef5c)
