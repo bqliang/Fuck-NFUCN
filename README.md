@@ -42,7 +42,7 @@ V1.1
 <br>
 
 ## :love_letter: 联系方式  
-:four_leaf_clover: 微信：```iwaslbq```  
+:four_leaf_clover: 微信：```iwaslbq```  （请不要为了咨询怎么使用而给我发送消息，师妹除外）
 :mailbox_with_mail: 电子邮箱：```bqliang@outlook.com```<br><br>
 
 ## :interrobang: Android版什么时候会有？  
