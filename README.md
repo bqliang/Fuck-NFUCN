@@ -32,7 +32,7 @@ V1.1
 4. 名称随便填
 5. 切换到“触发器”，“新建”，开始任务选择“发生事件时”
 6. 选择“自定义”，“新建事件筛选器”
-7. 事件日志选择“应用程序与服务日志 -> Microsoft -> Windows -> WLAN -> AutoConfig/Operational”
+7. 事件日志选择“应用程序与服务日志 -> Microsoft -> Windows -> WLAN -> AutoConfig -> Operational”
 8. 事件来源选择“WLAN-AutoConfig”
 9. 事件id输入数字8001
 
