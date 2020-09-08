@@ -41,4 +41,9 @@ V1.1
 10. 切换到```XML```选项卡，勾选```手动编辑查询``` -> 在```</Select>```前面增加代码```[EventData[Data[@Name='SSID']='NFU_Student']]```，点击确定返回上一层
 11. 切换到```操作```选项卡，```新建``` -> ```浏览```,选择解压后文件夹内的```自动化选我.exe```，最后一路确认。
 
-![Image text](https://pic2.zhimg.com/80/v2-ab3248fc843aaa4a6a0e2f922794525a_720w.jpg?source=1940ef5c)
+![Image text](https://pic2.zhimg.com/80/v2-ab3248fc843aaa4a6a0e2f922794525a_720w.jpg?source=1940ef5c)  
+<br><br>
+
+## 联系方式  
+:four_leaf_clover:微信：```iwaslbq```  
+:mailbox_with_mail:电子邮箱：```bqliang@outlook.com```
