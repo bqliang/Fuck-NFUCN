@@ -5,6 +5,6 @@
 
 #### 环境依赖
 
--python 3.6+
--python request库
+* python 3.6+
+* python request库
 
