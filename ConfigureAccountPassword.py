@@ -1,0 +1,5 @@
+id = input("请输入您的登录账号(以回车键结束)：")
+password = input("请输入您的密码（以回车键结束）：")
+fo = open("id & password.txt","w+")
+fo.write(id+"\n"+password)
+fo.close()
