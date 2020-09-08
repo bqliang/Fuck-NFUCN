@@ -6,10 +6,11 @@
 
 #### CHANGELOG
 V1.1
+
 打包成exe文件，使用前无需配置python环境
 
 
-#### 环境依赖
+~~~#### 环境依赖~~~
 
 * Win 7+
 * [python 3.6+](https://www.python.org/downloads/)
