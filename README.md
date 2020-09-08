@@ -17,7 +17,7 @@ V1.1
 2. 运行文件夹内的 ```点我配置信息.bat``` ，输入校园网账号密码，这时会在桌面生成一个快捷方式。
 3. 同时按住 Win + R 键，输入 regedit ，点按确定，逐次找到  
    ```计算机\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\Internet```  
-   （你也可以按住 Ctrl + F 键，输入 EnableActiveProbing 进行搜索，搜索较慢，需耐心等待）
+   （你也可以按住 Ctrl + F 键，输入 EnableActiveProbing 进行搜索，搜索较慢，需耐心等待）  
    如图所示，双击右边窗口里的 EnableActiveProbing ，在数值数据中，输入0，默认值是1，确定。
    
    ![Image text](https://img-blog.csdn.net/20160511100609551)
