@@ -11,7 +11,7 @@ V1.1
 <br><br>
 
 ## 下载  
-[地址1](https://wwa.lanzous.com/iOErFgg95ne)  
+[地址1](https://wwa.lanzous.com/ivMQgggi82f)  
 [地址2](https://github.com/bqliang/Fuck_Campus-Network/releases/download/V1.1/Fuck_Campus-Network.-.V1.1.zip)  
 <br>
 
