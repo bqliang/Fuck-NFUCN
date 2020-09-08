@@ -1,6 +1,7 @@
 # Fuck_Campus-Network :globe_with_meridians:
 # 中大南方校园网自动登录
->一键进行校园网认证，解放你的双手:grimacing:
+>一键进行校园网认证，解放你的双手:grimacing:  
+>[实现效果](https://wx1.sinaimg.cn/large/006aTw3Zgy1gijla8yn6qg31e00qd4qr.gif)
 <br>
 
 ## :new: CHANGELOG  
