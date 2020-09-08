@@ -5,6 +5,6 @@
 
 #### 环境依赖
 
-* python 3.6+
+* [python 3.6+](https://www.python.org/downloads/)
 * python request库
 
