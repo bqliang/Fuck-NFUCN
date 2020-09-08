@@ -1,4 +1,4 @@
-# Fuck_Campus-Network（中大南方）
+# Fuck_Campus-Network（中大南方）:globe_with_meridians:
 >一键进行校园网认证，解放你的双手:grimacing:
 <br>
 
@@ -22,7 +22,7 @@ V1.1
    
    ![Image text](https://img-blog.csdn.net/20160511100609551)
    
-4. 连接到校园网时，点击桌面的快捷方式 ```Wfif Con``` 自动进行认证
+4. 到目前为止，程序已可用，连接到校园网时，点击桌面的快捷方式 ```Wfif Con``` 即可自动进行认证。如果你想要全自动化，你可能需要再花费一点时间阅读以下内容。
 <br>
 
 ## 实现连接到 WiFi 自动执行认证操作
