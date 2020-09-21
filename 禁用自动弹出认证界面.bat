@@ -1,0 +1,1 @@
+@reg add HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\NlaSvc\Parameters\Internet /v EnableActiveProbing /t REG_DWORD /d 0 /f
