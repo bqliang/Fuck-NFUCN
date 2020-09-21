@@ -24,14 +24,8 @@ V1.1
 ## :u7981: 使用方法  
 1. 下载压缩包，解压
 2. 运行文件夹内的 ```点我配置信息.bat``` ，输入校园网账号密码，这时会在桌面生成一个快捷方式。
-3. 同时按住 Win + R 键，输入 regedit ，点按确定，逐次找到  
-   ```计算机\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\Internet```  
-   （你也可以按住 Ctrl + F 键，输入 EnableActiveProbing 进行搜索，搜索较慢，需耐心等待）  
-   如图所示，双击右边窗口里的 EnableActiveProbing ，在数值数据中，输入0，默认值是1，确定。
-   
-   ![Image text](https://img-blog.csdn.net/20160511100609551)
-   
-4. 到目前为止，程序已可用，连接到校园网时，点击桌面的快捷方式 ```Wfif Con``` 即可自动进行认证。如果你想要全自动化，你可能需要再花费一点时间阅读以下内容。
+3. 右键单击文件夹内的```禁用自动弹出认证界面.bat```，选择“以管理员身份运行”
+4. 每当连接到校园网时，点击桌面的快捷方式 ```Wfif Con``` 即可自动进行认证。如果你想要全自动化，你可能需要再花费一点时间阅读以下内容。
 <br>
 
 ## :arrows_counterclockwise: 实现连接到 WiFi 自动执行认证操作  
