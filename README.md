@@ -41,17 +41,17 @@ V1.1
 7. 切换到```XML```选项卡，勾选```手动编辑查询``` -> 在```</Select>```前面增加代码```[EventData[Data[@Name='SSID']='NFU_Student']]```，点击确定返回上一层
 8. 切换到```操作```选项卡，```新建``` -> ```浏览```,选择解压后文件夹内的```自动化选我.exe```，最后一路确认。
 
-![Image text](https://pic2.zhimg.com/80/v2-ab3248fc843aaa4a6a0e2f922794525a_720w.jpg?source=1940ef5c)  
+<img src="https://pic2.zhimg.com/80/v2-ab3248fc843aaa4a6a0e2f922794525a_720w.jpg?source=1940ef5c" width="60%">  
 <br>
+
 
 ## :love_letter: 联系方式  
 :four_leaf_clover: 微信：```iwaslbq``` （请不要为了咨询怎么使用而给我发送消息，师妹除外）  
 :mailbox_with_mail: 电子邮箱：```bqliang@outlook.com```<br><br>
 
-## :interrobang: Android版什么时候会有？  
-写好了，但是目前还属于一个残次品，所以不打算公开，因为谷歌对安卓限制太多，比如第三方应用无法控制移动数据的开关、必须打开定位权限才能获取WiFi名等。当然如果你有兴趣或者有任何的建议或想法，欢迎联系我。
-<br><br>
+## [:iphone: Android版](https://github.com/bqliang/NFU-shortcuts)  
+<br>
 
-## :interrobang: iOS版什么时候会有？  
+## :apple: iOS版什么时候会有？  
 不可能会有的，除非你送我一台最新的iPhone
 
